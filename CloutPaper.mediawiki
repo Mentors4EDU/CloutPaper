@@ -1,0 +1,30 @@
+<pre>
+  Title: CloutPool and CloutLock: A P2P Hardware and Node Syndication System Untop of BitClout
+  Author: Andrew M. K. Nassief <andrew@cloutpool.net>
+  Created: 2021-05-08
+  License: OPNL and OPNL-2
+</pre>
+
+== Abstract ==
+
+===Keywords===
+
+== Purpose ==
+
+== Introduction ==
+
+== Protocols ==
+
+== Impact ==
+
+== Key Milestones ==
+
+== Cryptographic Mechanisms ==
+
+== Summary ==
+
+== Conclusion ==
+
+== References ==
+
+== Acknowledgements ==
