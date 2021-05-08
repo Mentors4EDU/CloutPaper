@@ -16,6 +16,20 @@
 
 == Protocols ==
 
+=== Mining ===
+
+=== P2P Stores ===
+
+=== Crypto ATMS ===
+
+=== BLE Payments ===
+
+=== Soft Fork Proposal ===
+
+=== Node Syndication Services ===
+
+=== Open Source Hardware Wallets ===
+
 == Impact ==
 
 == Key Milestones ==
