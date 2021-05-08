@@ -34,7 +34,17 @@
 
 == Key Milestones ==
 
+=== Milestone #1 ===
+
+=== Milestone #2 ===
+
+=== Future Milestones ===
+
 == Cryptographic Mechanisms ==
+
+=== Lock Mechanisms ===
+
+=== Storing Seed Phases ===
 
 == Summary ==
 
