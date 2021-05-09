@@ -27,6 +27,7 @@ CloutPool wants to be broken into two parts: mining and distributed nodes. For c
 As of the writing of this paper, BitClout is yet to release its mining compatibility. Once it is released, it is of the author's opinion that it would likely be something close to Blake2b or utilize some variation of the BLAKE hash functions.
 
 === P2P Stores ===
+A simple technological implementation of further exapnding BitClout's ecosystem can be P2P stores. This can be done with something as simple as an OpenBazaar fork, and later become more complex like a p2shop module of interconnected P2P shopping carts w/ the decentralized-internet SDK. Something like that would utilize grid computing and offline data syncing capabilities. In regards to P2P stores, 
 
 === Crypto ATMS ===
 
