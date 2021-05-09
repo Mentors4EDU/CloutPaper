@@ -6,6 +6,7 @@
 </pre>
 
 == Abstract ==
+CloutPool and CloutLock are decentralized P2P and software defined networking layers that are built to be expansions of the BitClout ecosystem. The premise of CloutPool and CloutLock as projects, 
 
 ===Keywords=== 
 ''Social Networks, Blockchain, Software Development, Computer Architecture, P2P, Distributed Computing, Headless Computing, Computer Engineering, P2P Connectivity, Cryptography, Cryptocurrency, Nodes, Edge Computing, Multi-Cloud Systems''
