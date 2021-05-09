@@ -21,7 +21,10 @@ Part of the reason BitClout has been met with controversy, has largely been how 
 == Protocols ==
 [[File:https://raw.githubusercontent.com/Mentors4EDU/CloutPaper/main/assets/img/CloutPaper_UML.PNG]]
 
+CloutPool wants to be broken into two parts: mining and distributed nodes. For cryptomining, CloutPool wants to target the mining pools and mining farms. This involves both pool hosting and the release of open source mining software. The mining software involved would likely be
+
 === Mining ===
+As of the writing of this paper, BitClout is yet to release its mining compatibility. Once it is released, it is of the author's opinion that it would likely be something close to Blake2b or utilize some variation of the BLAKE hash functions.
 
 === P2P Stores ===
 
