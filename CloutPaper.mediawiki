@@ -36,7 +36,7 @@ Crypto ATMs are another technological implementation that can either expand BitC
 A project to take into consideration, is the utilization of a potential privacy-focused BLE and NFC gateway for BitClout or creator coins like CloutLock. Firstly, it is important to note that this is something also considered experimental. In regards to the technological implementation, 
 
 === Soft Fork Proposal ===
-Once the code is likely audited and released, comes the possibility of expanding BitClout's ecosystem with direct soft forks to the blockchain. A potential soft fork that the author of this paper have thought of, is the integration of offline browsing compatibility or P2P data transfers for nodes. This goes beyond the BlueGUI protocol or interconnected bluetooth devices for data transfering. Infact, this soft fork proposal actually integrates the decentralized-internet SDK. The idea is simple. Firstly, the NGINX servers will be upgraded to
+Once the code is likely audited and released, comes the possibility of expanding BitClout's ecosystem with direct soft forks to the blockchain. A potential soft fork that the author of this paper has thought of, is the integration of offline browsing compatibility or P2P data transfers for nodes. This goes beyond the BlueGUI protocol or interconnected bluetooth devices for data transferring. Infact, this soft fork proposal actually integrates the decentralized-internet SDK. The idea is simple. Firstly, the NGINX servers will be upgraded to
 
 === Node Syndication Services ===
 
