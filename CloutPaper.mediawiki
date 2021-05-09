@@ -33,6 +33,7 @@ A simple technological implementation for further expanding BitClout's ecosystem
 Crypto ATMs are another technological implementation that can either expand BitClout's ecosystem or even be utilized as part of a node distribution system. The simplest crypto ATM can be a fork of OpenBitcoinATM or other similar projects. One thing to take into account is, likely in the beginning this would be for demonstration purposes only. This is in part due to 
 
 === BLE Payments ===
+A project to take into consideration, is the utilization of a potential privacy-focused BLE and NFC gateway for BitClout or creator coins like CloutLock. Firstly, it is important to note that this is something also considered experimental. In regards to the technological implementation, 
 
 === Soft Fork Proposal ===
 
