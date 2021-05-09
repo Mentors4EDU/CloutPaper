@@ -39,8 +39,10 @@ A project to take into consideration, is the utilization of a potential privacy-
 Once the code is likely audited and released, comes the possibility of expanding BitClout's ecosystem with direct soft forks to the blockchain. A potential soft fork that the author of this paper has thought of, is the integration of offline browsing compatibility or P2P data transfers for nodes. This goes beyond the BlueGUI protocol or interconnected bluetooth devices for data transferring. Infact, this soft fork proposal actually integrates the decentralized-internet SDK. The idea is simple. Firstly, the NGINX servers will be upgraded to
 
 === Node Syndication Services ===
+Outside of mining, CloutPool also aims to introduce various node syndication services and hosting services. This can be done both through software offerings and actual hosting services as well. The software will be
 
 === Open Source Hardware Wallets ===
+The main capabilites of CloutLock revolves around various open source hardware wallets and different levels of hardware integrations or compatibilities. Some examples include
 
 == Impact ==
 
