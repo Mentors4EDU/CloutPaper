@@ -45,12 +45,16 @@ Outside of mining, CloutPool also aims to introduce various node syndication ser
 The main capabilites of CloutLock revolves around various open source hardware wallets and different levels of hardware integrations or compatibilities. Some examples include
 
 == Impact ==
+Eventually, all these technological integrations can create a full-scale decentralized ecosystem. Technologies such as 
 
 == Key Milestones ==
+There are a series of key milestones to take into account regarding this paper and its proposals. Milestones such as 
 
 === Milestone #1 ===
+The first milestones are centered around the rather simple technological integrations and what has been done so far.
 
 === Milestone #2 ===
+The second series of milestones are centered around how many of the technological integrations being developed will further expand.
 
 === Future Milestones ===
 
