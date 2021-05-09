@@ -1,7 +1,7 @@
 <pre>
   Title: CloutPool and CloutLock: A P2P Hardware and Node Syndication System Untop of BitClout
   Author: Andrew M. K. Nassief <andrew@cloutpool.net>
-  Created: 2021-05-08
+  Created: 2021-05-09
   License: OPNL and OPNL-2
 </pre>
 
@@ -19,6 +19,7 @@ BitClout is an up and coming social network built off of the concept of decentra
 Part of the reason BitClout has been met with controversy, has largely been how the network started. 
 
 == Protocols ==
+[[File:https://raw.githubusercontent.com/Mentors4EDU/CloutPaper/main/assets/img/CloutPaper_UML.PNG]]
 
 === Mining ===
 
