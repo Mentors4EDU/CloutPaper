@@ -61,16 +61,16 @@ Eventually, all these technological integrations can create a full-scale decentr
 There are a series of key milestones to take into account regarding this paper and its proposals. Milestones such as building the early stages of CloutPool and CloutLock has already been implemented. CloutPool has some research behind it in regards to its software strategy and expected releases. The same applies to CloutLock which is working on early variations of different concepts to run on the Raspberry Pi Model 3B and Pi W. After BitClout makes mining available, this is an early step towards the first phase which is introductry. The second series of milestones is how these technologies will be further developed. Lastly, will be how the future will look like.
 
 === Milestone #1 ===
-The first milestones are centered around the rather simple technological integrations and what has been done so far.
+The first milestones are centered around the rather simple technological integrations and what has been done so far. This is the early usecases of CloutLock and a series of tutorials to run on out of the box hardware. There is also the early examples of CloutPool, not just by running some mining pool in a VPS, but rather the focus and emphasis on different variaitons of mining software. Milestone #1 is being implemented already and about to finish implementations in the early stage software releases that will follow mining compatibility releases.
 
 === Milestone #2 ===
-The second series of milestones are centered around how many of the technological integrations being developed will further expand.
+The second series of milestones are centered around how many of the technological integrations being developed will further expand. First and foremost, CloutPool aims to create various custom control pannels for mining farms, work on node ecosystem expansion technology, and really establish many of the usecases presented in this paper. Things such as early stage offline-networking capabilities may be introduced depending on consensus. Technologies such as large scale P2P shopping, hardware point of sale systems, and many software-defined networking implementations should be in place as well.
 
 === Future Milestones ===
-There are many milestones in regards to how CloutPool and its technologies will expand and further phase developments.
+There are many milestones in regards to how CloutPool and its technologies will expand and further phase developments. Future milestones include city implementations or partnerships. Generally, the author of this paper has an idea of some small cities for demo pilots that can take place. Massive adoption by ventors is also a huge thing. BitClout being used as another use-case of offline-networking capabilities by the technologies powering it can potentially become promising. Technologies for sure to come to fruition also includes the large scale adaption of mining and hardware nodes.
 
 == Cryptographic Mechanisms ==
-There are a series of technologies that implement certain cryptographic mechanisms that may be compatible with BitClout. Some 
+There are a series of technologies that implement certain cryptographic mechanisms that may be compatible with BitClout. The focus here will be on the shielding techniques utilizes for protecting the seed phase for custom software and hardware. It is also important to note the possibility of a cryptographic soft fork in the future. Since BitClout utilizes some form of paraphrase generator, likely it may be able to implement a variation of Quantum diceware in the future. Generating words through randomization done through Quantum numbers, may be the simplest form of high entropy cryptographic protection in the future.
 
 === Lock Mechanisms ===
 Lock mechanisms compatible with BitClout include
@@ -79,7 +79,7 @@ Lock mechanisms compatible with BitClout include
 Technologies like what CloutLock provide will
 
 == Summary ==
-The novel usecases presented in this paper, 
+The novel usecases presented in this paper, are many. Even in the event that mining may not be available in the near future, already comes lots of possibilities for CloutPool with node hosting and various software integrations. The same applies to CloutLock with various hardware integrations. 
 
 == Conclusion ==
 To conclude, 
