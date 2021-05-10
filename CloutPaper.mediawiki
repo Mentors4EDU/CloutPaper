@@ -57,6 +57,7 @@ The first milestones are centered around the rather simple technological integra
 The second series of milestones are centered around how many of the technological integrations being developed will further expand.
 
 === Future Milestones ===
+There are many milestones in regards to how CloutPool and its technologies will expand and further phase developments.
 
 == Cryptographic Mechanisms ==
 
