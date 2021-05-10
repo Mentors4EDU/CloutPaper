@@ -12,6 +12,7 @@ CloutPool and CloutLock are decentralized P2P and software defined networking la
 ''Social Networks, Blockchain, Software Development, Computer Architecture, P2P, Distributed Computing, Headless Computing, Computer Engineering, P2P Connectivity, Cryptography, Cryptocurrency, Nodes, Edge Computing, Multi-Cloud Systems''
 
 == Purpose ==
+Technologies like CloutPool and CloutLock will
 
 == Introduction ==
 BitClout is an up and coming social network built off of the concept of decentralizing social media. It is quite experimental in nature and the premise has been met with both support and backlash. In regards to BitClout, this paper proposes creating another layer untop of BitClout or a BitClout 2.0 if you will. This layer is a hardware and software defined networking system that should be able to expand the capabilities of BitClout through a cryptographic and usecase perspective. It also aims to make BitClout more privacy-focused in regards to cryptography, censorship-resistant and decentralized. This paper introduces two projects known as CloutPool and CloutLock, and its proposed expansions upon BitClout nodes.
