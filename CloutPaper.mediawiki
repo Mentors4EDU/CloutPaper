@@ -50,7 +50,7 @@ A simple technological implementation for further expanding BitClout's ecosystem
 Another concept or technological implementation could be the introduction of virtual restaurant and open franchise type concepts. The virtual restaurant concept have been around for a while, and so has the OpenFranchise model which is different. Applications like BitClout and different technological integrations, can allow for a P2P point of sale system that offers a more decentralized variation of the traditional food delivery model. The ability to launch virtual restaurant brands already exists, but taking it a step further with no centralized database and cutting out the middleman for the virtual brands can make this even more open.
 
 === Crypto ATMS ===
-Crypto ATMs are another technological implementation that can either expand BitClout's ecosystem or even be utilized as part of a node distribution system. The simplest crypto ATM can be a fork of OpenBitcoinATM or other similar projects. One thing to take into account is that likely in the beginning, this would be for demonstration purposes only. This is in part due to need of money transmitting licenses and regulatory aspects. However, over time as more regulational hurdles are worked through, more and more people may be in the capacity to build pre-configured crypto ATM systems.
+Crypto ATMs are another technological implementation that can either expand BitClout's ecosystem or even be utilized as part of a node distribution system. The simplest crypto ATM can be a fork of Open Bitcoin ATM or other similar projects. One thing to take into account is that likely in the beginning, this would be for demonstration purposes only. This is in part due to need of money transmitting licenses and regulatory aspects. However, over time as more regulational hurdles are worked through, more and more people may be in the capacity to build pre-configured crypto ATM systems.
 
 === BLE Payments ===
 A project to take into consideration, is the utilization of a potential privacy-focused BLE and NFC gateway for BitClout or creator coins like CloutLock. Firstly, it is important to note that this is something also considered experimental. In regards to the technological implementation, likely it would implement something close to the NTAG215 or other similar system. The idea is simple, create cards that implement your seed phase. Then run nodes that call in BitClout's identity API for specific functions that enable you to pay in or transfer BitClout. It would need to be done in a privacy-preserving way that doesn't enable tracking and doesn't store your private information in its system. Likely this can be done with an application interface that works as some sort of authenticator with what you are trying to purchase. 
@@ -85,9 +85,28 @@ There are many milestones in regards to how CloutPool and its technologies will 
 There are a series of technologies that implement certain cryptographic mechanisms that may be compatible with BitClout. The focus here will be on the shielding techniques utilized for protecting the seed phase for custom software and hardware. It is also important to note the possibility of a cryptographic soft fork in the future. Since BitClout utilizes some form of paraphrase generation, likely it may be able to implement a variation of Quantum diceware in the future. Generating words through randomization done through Quantum random numbers, may be the simplest form of high entropy cryptographic protection in the future.
 
 == Summary ==
-The novel usecases presented in this paper, are many. Even in the event that mining may not be available in the near future, already comes lots of possibilities for CloutPool with node hosting and various software integrations. The same applies to CloutLock with various hardware integrations. 
+The novel usecases presented in this paper, are many. Even in the event that mining may not be available in the near future, already comes lots of possibilities for CloutPool with node hosting and various software integrations. The same applies to CloutLock with various hardware integrations. Overall, this paper serves as a good overview of CloutPool and CloutLock as well as what is in store.
 
 == References ==
+[1] [https://bitclout.com/ BitClout]
+<br>
+[2] [https://hackernoon.com/my-first-impressions-on-bitclout-zgv333i My First Impressions on BitClout]
+<br>
+[3] [https://openbazaar.org/ OpenBazaar]
+<br>
+[4] [https://lonero.readthedocs.io/en/latest/Decentralized%20Internet%20Docs/Critical%20Components.html Decentralized-Internet SDK]
+<br>
+[5] [https://openbitcoinatm.wordpress.com/ Open Bitcoin ATM]
+<br>
+[6] [https://en.wikipedia.org/wiki/Ghost_kitchen Ghost Kitchens]
+<br>
+[7] [https://en.wikipedia.org/wiki/Near-field_communication#Bluetooth_comparison NTAG215]
+<br>
+[8] [https://github.com/bitclout/identity BitClout Identity]
+<br>
+[9] [https://github.com/roryk/quantum-diceware Quantum Diceware]
+<br>
+[10] [https://github.com/lmacken/quantumrandom Quantum Random Numbers]
 
 == Acknowledgements ==
 
