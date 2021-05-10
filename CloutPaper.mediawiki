@@ -70,8 +70,10 @@ Lock mechanisms compatible with BitClout include
 Technologies like what CloutLock provide will
 
 == Summary ==
+The novel usecases presented in this paper, 
 
 == Conclusion ==
+To conclude, 
 
 == References ==
 
