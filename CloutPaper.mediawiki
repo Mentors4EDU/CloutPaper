@@ -72,12 +72,6 @@ There are many milestones in regards to how CloutPool and its technologies will 
 == Cryptographic Mechanisms ==
 There are a series of technologies that implement certain cryptographic mechanisms that may be compatible with BitClout. The focus here will be on the shielding techniques utilized for protecting the seed phase for custom software and hardware. It is also important to note the possibility of a cryptographic soft fork in the future. Since BitClout utilizes some form of paraphrase generation, likely it may be able to implement a variation of Quantum diceware in the future. Generating words through randomization done through Quantum random numbers, may be the simplest form of high entropy cryptographic protection in the future.
 
-=== Lock Mechanisms ===
-Lock mechanisms compatible with BitClout include
-
-=== Storing Seed Phases ===
-Technologies like what CloutLock provide will
-
 == Summary ==
 The novel usecases presented in this paper, are many. Even in the event that mining may not be available in the near future, already comes lots of possibilities for CloutPool with node hosting and various software integrations. The same applies to CloutLock with various hardware integrations. 
 
