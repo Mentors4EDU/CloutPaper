@@ -5,18 +5,6 @@
   License: OPNL and OPNL-2
 </pre>
 
-= =
-
-= =
-
-= =
-
-= =
-
-= =
-
-= =
-
 == Abstract ==
 CloutPool and CloutLock are decentralized P2P and software defined networking layers that are built to be expansions of the BitClout ecosystem. The premise of CloutPool and CloutLock as projects, is to work as a technological layer that expand pre-existing features that BitClout utilize. Some of these features can include: mining, node hosting, hardware wallets, point of sale systems, e-stores and many more. The focus is on technological infrastructure centered around software defined networking and P2P blockchain capabilities. This paper will talk about many of the technological integrations that CloutPool has in place, and will introduce CloutLock as an expansion of CloutPool through its hardware integrations.
 
@@ -88,8 +76,6 @@ There are a series of technologies that implement certain cryptographic mechanis
 The novel usecases presented in this paper, are many. Even in the event that mining may not be available in the near future, already comes lots of possibilities for CloutPool with node hosting and various software integrations. The same applies to CloutLock with various hardware integrations. Overall, this paper serves as a good overview of CloutPool and CloutLock as well as what is in store.
 
 == References ==
-Please see: https://github.com/Mentors4EDU/CloutPaper/blob/main/CloutPaper.mediawiki#references
-
 [1] [https://bitclout.com/ BitClout]
 <br>
 [2] [https://hackernoon.com/my-first-impressions-on-bitclout-zgv333i My First Impressions on BitClout]
