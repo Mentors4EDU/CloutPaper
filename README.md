@@ -1,2 +1,2 @@
 # CloutPaper
-A Whitepaper for the CloutPool &amp; CloutLock Project
+*A Whitepaper for the CloutPool &amp; CloutLock Project*
