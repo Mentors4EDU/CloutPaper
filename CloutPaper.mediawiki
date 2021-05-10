@@ -1,6 +1,7 @@
 <pre>
   Title: CloutPool and CloutLock: A P2P Hardware and Node Syndication System Untop of BitClout
   Author: Andrew M. K. Nassief <andrew@cloutpool.net>
+  Affiliation: Co-founder of ChainTerra and Creator of CloutPool
   Created: 2021-05-09
   License: OPNL and OPNL-2
 </pre>
