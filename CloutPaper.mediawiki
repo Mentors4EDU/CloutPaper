@@ -30,6 +30,9 @@ As of the writing of this paper, BitClout is yet to release its mining compatibi
 === P2P Stores ===
 A simple technological implementation for further expanding BitClout's ecosystem can be P2P stores. This can be done with something as simple as an OpenBazaar fork, and later become more complex like a p2shop module of interconnected P2P shopping carts w/ the decentralized-internet SDK. Something like that would utilize grid computing and offline data syncing capabilities. In regards to P2P stores, 
 
+==== Ghost Kitchens ====
+Another concept or technological implementation could be the introduction of virtual restaurant and open franchise type concepts. The virtual restaurant concept have been around for a while, and so has the OpenFranchise model which is different. Applications like BitClout and different technological integrations, can allow for a P2P point of sale system that offers a more decentralized variation of the traditional food delivery model. The ability to launch virtual restaurant brands already exists, but taking it a step further with no centralized database and cutting out the middleman for the virtual brands can make this even more open.
+
 === Crypto ATMS ===
 Crypto ATMs are another technological implementation that can either expand BitClout's ecosystem or even be utilized as part of a node distribution system. The simplest crypto ATM can be a fork of OpenBitcoinATM or other similar projects. One thing to take into account is, likely in the beginning this would be for demonstration purposes only. This is in part due to 
 
