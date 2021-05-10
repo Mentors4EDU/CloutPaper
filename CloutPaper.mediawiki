@@ -49,7 +49,7 @@ Once the code is likely audited and released, comes the possibility of expanding
 The idea is simple. Firstly, the NGINX servers will be upgraded to or replaced with decentralized database capabilities. Then the rest of the SDK which integrates P2P grid and shared computing capabilities through systems like BOINC or peer discovery, will be utilized as the main protocol for node sync, distribution and data transfer. If this can be implemented in the code without dramatically effecting the main architecture design or its hash functions, then this might be possible with a soft fork. Once enough peers are interconnected with small enough distance for peer discovery (which happens over time), then the SDK now provides a backbone for a large scale offline-centric network.
 
 === Node Syndication Services ===
-Outside of mining, CloutPool also aims to introduce various node syndication services and hosting services. This can be done both through software offerings and actual hosting services as well. The software can be things such as open-source virtual machines, multi-node VMs, pruned node syncs, and even node libraries. 
+Outside of mining, CloutPool also aims to introduce various node syndication services and hosting services. This can be done both through software offerings and actual hosting services as well. The software can be things such as open-source virtual machines, multi-node VMs, pruned node syncs, and even node libraries. The idea is to have as many nodes hosted the regular way as possible in the beginning.
 
 === Open Source Hardware Wallets ===
 The main capabilites of CloutLock revolves around various open source hardware wallets and different levels of hardware integrations or compatibilities. Some examples include
