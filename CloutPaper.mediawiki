@@ -64,8 +64,10 @@ There are many milestones in regards to how CloutPool and its technologies will 
 There are a series of technologies that implement certain cryptographic mechanisms that may be compatible with BitClout. Some 
 
 === Lock Mechanisms ===
+Lock mechanisms compatible with BitClout include
 
 === Storing Seed Phases ===
+Technologies like what CloutLock provide will
 
 == Summary ==
 
