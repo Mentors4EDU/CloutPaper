@@ -88,6 +88,7 @@ There are a series of technologies that implement certain cryptographic mechanis
 The novel usecases presented in this paper, are many. Even in the event that mining may not be available in the near future, already comes lots of possibilities for CloutPool with node hosting and various software integrations. The same applies to CloutLock with various hardware integrations. Overall, this paper serves as a good overview of CloutPool and CloutLock as well as what is in store.
 
 == References ==
+Please see: https://github.com/Mentors4EDU/CloutPaper/blob/main/CloutPaper.mediawiki#references
 [1] [https://bitclout.com/ BitClout]
 <br>
 [2] [https://hackernoon.com/my-first-impressions-on-bitclout-zgv333i My First Impressions on BitClout]
@@ -109,5 +110,7 @@ The novel usecases presented in this paper, are many. Even in the event that min
 [10] [https://github.com/lmacken/quantumrandom Quantum Random Numbers]
 
 == Acknowledgements ==
+The author wants to thank the Stark Drones Corporation, ChainTerra, Lonero, and the work done by the creators of BOINC as well as mathematicians like Paul Syverson. The author also wants to acknowledge Aaron Swartz and his activism. The author also wants to acknowledge the many contributions to cryptography by computer scientist David Chaum. Lastly, the author wants to acknowledge the contributions to mathematics by Stephen Wolfram.
 
 == Disclaimer ==
+Please note any usage or investments you make on BitClout is at your own risk. This paper is solely on technology and not to meant to solicit financial advice or advice on the validity of any said platform.
