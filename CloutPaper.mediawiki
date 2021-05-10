@@ -61,6 +61,7 @@ The second series of milestones are centered around how many of the technologica
 There are many milestones in regards to how CloutPool and its technologies will expand and further phase developments.
 
 == Cryptographic Mechanisms ==
+There are a series of technologies that implement certain cryptographic mechanisms that may be compatible with BitClout. Some 
 
 === Lock Mechanisms ===
 
