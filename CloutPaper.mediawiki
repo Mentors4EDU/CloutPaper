@@ -5,7 +5,7 @@
   License: OPNL and OPNL-2
 </pre>
 
-
+= =
 
 == Abstract ==
 CloutPool and CloutLock are decentralized P2P and software defined networking layers that are built to be expansions of the BitClout ecosystem. The premise of CloutPool and CloutLock as projects, is to work as a technological layer that expand pre-existing features that BitClout utilize. Some of these features can include: mining, node hosting, hardware wallets, point of sale systems, e-estores and many more. The focus is on technological infrastructure centered around software defined networking and P2P blockchain capabilities. This paper will talk about many of the technological integrations that CloutPool has in place, and will introduce CloutLock as an expansion of CloutPool through its hardware integratons.
@@ -28,7 +28,7 @@ The main concern this paper will focus on is pushing privacy-focused concepts in
 
 CloutPool wants to be broken into two parts: mining and distributed nodes. For cryptomining, CloutPool wants to target the mining pools and mining farms. This involves both pool hosting and the release of open source mining software. The mining software involved would likely be in the categories of regular mining integrations (pools and protoocols) and open source software for enterprises such as mining farm management software. However, what is more important then these integrations are the distributed node architecture and node hosting. Through a hardware perspective, this is where CloutLock comes into play. 
 
-The CloutLock project which isn't only a project for the basis of open-source hardware wallets, also works on mobile node syndication. This may not seem like a big thing, but when taking into account running nodes on P2P stores, the potential of Crypto ATMs, Point of Sale systems, etc., CloutLock can bridge the gap between BitClout and many disruptive business models. Most of these business models are centered around mass adoption beyond just a social networking app. It is also important to note that the author utilizes lots of the same concepts in the blockchain architecture of his own projects and crypto projects he has worked on. This is because these models bring about the usecases that a blockchain is truly about. 
+The CloutLock project which isn't only a project for the basis of open-source hardware wallets, also works on mobile node syndication. This may not seem like a big thing, but when taking into account running nodes on P2P stores, the potential of Crypto ATMs, Point of Sale systems, etc., CloutLock can bridge the gap between BitClout and many disruptive business models. Most of these business models are centered around mass adoption beyond just a social networking app. It is also important to note that the author utilizes lots of the same concepts in the blockchain architecture of his own projects and crypto projects he has worked on. This is because these models bring about the usecases that a blockchain is truly about.
 
 === Mining ===
 As of the writing of this paper, BitClout is yet to release its mining compatibility. Once it is released, it is of the author's opinion that it would likely be something close to Blake2b or utilize some variation of the BLAKE hash functions. CloutPool aims to go beyond just hosting a mining pool, but also release mining pool software and different protocols as an extension to BitClout's chosen algorithm. This may include virtual machines with mining pre-configured in it or variations of multi-cloud infrastructures to support large scale mining farms.
